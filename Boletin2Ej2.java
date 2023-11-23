@@ -7,7 +7,7 @@ public class Boletin2Ej2 {
 	{
 		var sc=new Scanner(System.in);
 		
-	
+		//pedir numeros
 		System.out.println("Introduce numero 1: ");
 		int i1=sc.nextInt();
 		System.out.println("Introduce numero 2: ");
@@ -15,7 +15,7 @@ public class Boletin2Ej2 {
 		int i=i1 + i2;
 		System.out.println (i);
 		
-		
+		//pedir numeros
 		System.out.println("Introduce numero 1: ");
 		
 		float f1 = sc.nextInt();

@@ -7,8 +7,8 @@ public class Boletin2Ej4 {
 	{
 		var sc=new Scanner(System.in);
 	
-		
-System.out.println("Introduce el año actual: ");
+		//pedir año
+		System.out.println("Introduce el año actual: ");
 		
 		float f1 = sc.nextInt();
 		System.out.println("Introduce el año de tu nacimiento: ");
